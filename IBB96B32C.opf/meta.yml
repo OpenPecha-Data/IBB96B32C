@@ -1,0 +1,16 @@
+id: IBB96B32C
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:58:56.121142
+last_modified: 2023-02-08 14:58:56.121288
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka, BMSC IV, Tibetan'
+  language: bo
+bases:
+  '7229':
+    base_file: 7229.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
